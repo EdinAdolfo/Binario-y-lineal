@@ -1,0 +1,7 @@
+C:\Users\Edin Adolfo\Desktop\todo 2\metodo_busqueda\bin\Debug\metodo_busqueda.exe.config
+C:\Users\Edin Adolfo\Desktop\todo 2\metodo_busqueda\bin\Debug\metodo_busqueda.exe
+C:\Users\Edin Adolfo\Desktop\todo 2\metodo_busqueda\bin\Debug\metodo_busqueda.pdb
+C:\Users\Edin Adolfo\Desktop\todo 2\metodo_busqueda\obj\Debug\metodo_busqueda.csproj.AssemblyReference.cache
+C:\Users\Edin Adolfo\Desktop\todo 2\metodo_busqueda\obj\Debug\metodo_busqueda.csproj.CoreCompileInputs.cache
+C:\Users\Edin Adolfo\Desktop\todo 2\metodo_busqueda\obj\Debug\metodo_busqueda.exe
+C:\Users\Edin Adolfo\Desktop\todo 2\metodo_busqueda\obj\Debug\metodo_busqueda.pdb

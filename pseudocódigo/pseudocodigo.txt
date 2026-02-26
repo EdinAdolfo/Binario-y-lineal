@@ -1,0 +1,32 @@
+
+seudocódigo de búsqueda lineal:
+
+Inicio
+   Para i desde 0 hasta tamaño del arreglo - 1
+       Si arreglo[i] es igual al valor buscado
+           Retornar i
+   Fin Para
+   Retornar -1
+Fin
+
+ 
+
+Pseudo código búsqueda binaria
+
+Inicio
+   izquierda = 0
+   derecha = tamaño del arreglo - 1
+
+   Mientras izquierda <= derecha
+       medio = (izquierda + derecha) / 2
+
+       Si arreglo[medio] es igual al valor
+           Retornar medio
+       Si arreglo[medio] < valor
+           izquierda = medio + 1
+       Si no
+           derecha = medio - 1
+   Fin Mientras
+
+   Retornar -1
+Fin
